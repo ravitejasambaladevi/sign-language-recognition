@@ -95,6 +95,12 @@ python predict.py
 
 ---
 
+## 📸 Sample Output
+
+![Gesture Detection](outputs/gesture_output.png)
+
+---
+
 ## ⚠️ Limitations
 
 * Accuracy depends on dataset quality and diversity
